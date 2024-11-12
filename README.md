@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Simple Color Changer - Created using create-react-app
+
+## A great walkthrough for working with hooks in React.js
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
