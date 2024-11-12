@@ -1,4 +1,4 @@
-# Simple Color Changer - Created using create-react-app
+# Simple Color Changer - created using create-react-app
 
 ## A great walkthrough for working with hooks in React.js
 
